@@ -1,3 +1,14 @@
-# ignorar  as pastas
+# ignorar  as pastas especificas
 env/
 testeLocal/
+
+# ignorar arquivo com nome desejado
+Testedo_Jeff/* txt
+
+# ignorar variaveis
+src/
+util/
+config.properties
+
+# ignorar arquivos HTML
+Testedo_Jeff/* html
